@@ -74,6 +74,8 @@
 
 **Формула расчёта итогового балла (Excel):**
 
+=СУММПРОИЗВ($B$2:$B$6; C2:C6) / 100
+
 **Расчёт вручную:**
 
 PostgreSQL = (35×5 + 25×5 + 15×3 + 15×4 + 10×5) / 100 = (175 + 125 + 45 + 60 + 50) / 100 = **4,55**
@@ -116,7 +118,7 @@ MongoDB = (35×3 + 25×2 + 15×5 + 15×4 + 10×4) / 100 = (105 + 50 + 75 + 60 + 
 
 ### 3.1. Настройка репозитория
 
-**Ссылка на репозиторий:** [https://github.com/kedr00/lab1-comprehensive-Deeich]<img width="1920" height="1080" alt="Снимок экрана (10)" src="https://github.com/user-attachments/assets/2dc39ec0-ca32-4beb-89e2-eef4a77aacb4" />
+**Ссылка на репозиторий:** [https://github.com/kedr00/lab1-comprehensive-Deeich]
 
 
 **Модель ветвления:**
@@ -139,10 +141,12 @@ MongoDB = (35×3 + 25×2 + 15×5 + 15×4 + 10×4) / 100 = (105 + 50 + 75 + 60 + 
 
 **Branch Protection для `develop`:** включено требование **Require a pull request before merging**.
 
-<img width="1920" height="1080" alt="Снимок экрана (10)" src="https://github.com/user-attachments/assets/50b59aef-b2fa-4ab6-ad4b-b98904f6d85b" />
+<img width="641" height="493" alt="chrome_t3jnmYBRbp" src="https://github.com/user-attachments/assets/d4f16cc7-6b3e-4c42-aafe-8e759a4010af" />
+
 
 **Содержимое `.github/CODEOWNERS`:**
 
+<img width="646" height="314" alt="chrome_XMdOi4oWwx" src="https://github.com/user-attachments/assets/05769735-b058-4c7f-8edc-983144c6d26d" />
 
 ---
 
@@ -159,13 +163,12 @@ MongoDB = (35×3 + 25×2 + 15×5 + 15×4 + 10×4) / 100 = (105 + 50 + 75 + 60 + 
 В ветке `feature/qa-gates` в `src/discount.py` намеренно добавлены ошибки: неиспользуемый `import os` и строка длиннее 80 символов. При создании PR в `develop` проверка **Checks** показала красный статус (failed).
 
 **Текст ошибки линтера:**
-- `F401 'os' imported but unused`
-- `E501 line too long (… > 79 characters)`
+- `src/discount.py:1:1: F401 'os' imported but unused`
+- `src/discount.py:7:80: E501 line too long (121 > 79 characters)`
 
 **Исправление:** удалён неиспользуемый `import os`, длинная строка разбита. Коммит `fix: resolve linter errors` → статус проверки сменился на зелёный (passed), PR слит в `develop`.
 
-[Вставьте скриншот Checks в PR: красный статус → зелёный статус]
-
+<img width="294" height="319" alt="chrome_IgUujsPi9H" src="https://github.com/user-attachments/assets/c437a8c9-23f8-471a-aa4d-c2c41d699a63" />
 ---
 
 ## 5. Обратное проектирование и планирование ревью
@@ -185,7 +188,7 @@ MongoDB = (35×3 + 25×2 + 15×5 + 15×4 + 10×4) / 100 = (105 + 50 + 75 + 60 + 
 
 ### 5.2. План code-review
 
-**Ссылка на открытый PR:** [вставьте ссылку на PR из feature/review-plan в develop]
+**Ссылка на открытый PR:** [https://github.com/kedr00/lab1-comprehensive-Deeich/pull/4]
 
 Подход к ревью: проверка финансовой логики модуля `src/discount.py` с акцентом на точность расчётов, защиту от фрода и корректность применения скидок.
 

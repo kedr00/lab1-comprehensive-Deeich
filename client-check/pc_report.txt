@@ -1,0 +1,364 @@
+Diagnostics 
+============================== 
+ 
+OS Information: 
+OS Name:                   Майкрософт Windows Server 2022 Standard
+OS Version:                10.0.20348 N/A Build 20348
+Processor: 
+Name=Intel(R) Xeon(R) Gold 6354 CPU @ 3.00GHz
+Memory: 
+TotalVisibleMemorySize=67107892
+Disk C: 
+              16 Dir(s)  79 615 582 208 bytes free
+Installed Programs: 
+    DisplayName    REG_SZ    draw.io 24.7.17
+    DisplayName    REG_SZ    7-Zip 24.08 (x64)
+    DisplayName    REG_SZ    Dr.Explain
+    DisplayName    REG_SZ    Git
+    DisplayName    REG_SZ    Microsoft SQL Server 2022 (64-bit)
+    DisplayName    REG_SZ    Microsoft SQL Server 2022 (64-bit)
+    DisplayName    REG_SZ    Notepad++ (64-bit x64)
+    DisplayName    REG_SZ    PostgreSQL 17 
+    DisplayName    REG_SZ    PostgreSQL 18 
+    DisplayName    REG_SZ    Microsoft Office LTSC Professional Plus 2021 - en-us
+    DisplayName    REG_SZ    Microsoft Office LTSC профессиональный плюс 2021 - ru-ru
+    DisplayName    REG_SZ    Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-arm (x64)
+    DisplayName    REG_SZ    vs_Graphics_Singletonx64
+    DisplayName    REG_SZ    IIS Express Application Compatibility Database for x64
+    DisplayName    REG_SZ    .NET for Android Templates (x64)
+    DisplayName    REG_SZ    Microsoft .NET AppHost Pack - 9.0.0 (x64_arm64)
+    DisplayName    REG_SZ    Microsoft.NETCore.App.Runtime.Mono.android-arm64 (x64)
+    DisplayName    REG_SZ    Microsoft.NETCore.App.Runtime.Mono.iossimulator-x64 (x64)
+    DisplayName    REG_SZ    Python 3.14.0 Development Libraries (64-bit)
+    DisplayName    REG_SZ    Microsoft .NET Host - 9.0.0 (x64)
+    DisplayName    REG_SZ    SQL Server 2022 Shared Management Objects Extensions
+    DisplayName    REG_SZ    Microsoft System CLR Types для SQL Server 2019
+    DisplayName    REG_SZ    SQL Server 2022 SQL Diagnostics
+    DisplayName    REG_SZ    Microsoft.Maui.Controls (x64)
+    DisplayName    REG_SZ    SQL Server 2022 Database Engine Services
+    DisplayName    REG_SZ    Microsoft ODBC Driver 17 for SQL Server
+    DisplayName    REG_SZ    Zabbix Agent (64-bit)
+    DisplayName    REG_SZ    DiagnosticsHub_CollectionService
+    DisplayName    REG_SZ    Microsoft.iOS.Runtime.iossimulator-arm64.net9.0_18.1 (x64)
+    DisplayName    REG_SZ    Microsoft.Android.Sdk.Windows (x64)
+    DisplayName    REG_SZ    Microsoft ASP.NET Core 9.0.0 Targeting Pack (x64)
+    DisplayName    REG_SZ    Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-x64 (x64)
+    DisplayName    REG_SZ    Microsoft.NETCore.App.Runtime.Mono.android-arm (x64)
+    DisplayName    REG_SZ    Microsoft.iOS.Sdk.net8.0_17.0 (x64)
+    DisplayName    REG_SZ    Microsoft.iOS.Windows.Sdk.net9.0_18.1 (x64)
+    DisplayName    REG_SZ    Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest (x64)
+    DisplayName    REG_SZ    SQL Server 2022 Common Files
+    DisplayName    REG_SZ    icecap_collection_x64
+    DisplayName    REG_SZ    Microsoft.NETCore.App.Runtime.Mono.maccatalyst-arm64 (x64)
+    DisplayName    REG_SZ    Microsoft .NET Host FX Resolver - 9.0.0 (x64)
+    DisplayName    REG_SZ    Microsoft.NETCore.App.Runtime.Mono.android-x64 (x64)
+    DisplayName    REG_SZ    Microsoft.NETCore.App.Runtime.Mono.android-arm (x64)
+    DisplayName    REG_SZ    Microsoft.MacCatalyst.Sdk.net9.0_18.0 (x64)
+    DisplayName    REG_SZ    Application Verifier x64 External Package (OnecoreUAP)
+    DisplayName    REG_SZ    Universal CRT Tools x64
+    DisplayName    REG_SZ    Microsoft.iOS.Templates (x64)
+    DisplayName    REG_SZ    Microsoft.NET.Sdk.Aspire.Manifest-8.0.100 (x64)
+    DisplayName    REG_SZ    Microsoft.NETCore.App.Runtime.Mono.maccatalyst-arm64 (x64)
+    DisplayName    REG_SZ    Microsoft.NET.Sdk.Maui.Manifest-9.0.100 (x64)
+    DisplayName    REG_SZ    SQL Server 2022 Full text search
+    DisplayName    REG_SZ    Microsoft .NET 9.0 Templates 9.0.100 (x64)
+    DisplayName    REG_SZ    vs_minshellx64msi
+    DisplayName    REG_SZ    Microsoft.MacCatalyst.Ref.net9.0_18.1 (x64)
+    DisplayName    REG_SZ    Microsoft.Maui.Controls.Build.Tasks (x64)
+    DisplayName    REG_SZ    Установка Microsoft SQL Server 2022 (на английском языке)
+    DisplayName    REG_SZ    Microsoft SQL Server 2022 LocalDB 
+    DisplayName    REG_SZ    Microsoft Command Line Utilities 15 for SQL Server
+    DisplayName    REG_SZ    Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.44.35211
+    DisplayName    REG_SZ    Google Chrome
+    DisplayName    REG_SZ    Microsoft.iOS.Sdk.net8.0_18.0 (x64)
+    DisplayName    REG_SZ    Microsoft.MacCatalyst.Sdk.net9.0_18.1 (x64)
+    DisplayName    REG_SZ    .NET MAUI SDK (x64)
+    DisplayName    REG_SZ    Microsoft.NETCore.App.Runtime.Mono.android-x64 (x64)
+    DisplayName    REG_SZ    Microsoft.NET.Sdk.macOS.Manifest-9.0.100 (x64)
+    DisplayName    REG_SZ    Microsoft .NET AppHost Pack - 8.0.11 (x64_arm64)
+    DisplayName    REG_SZ    SQL Server 2022 Database Engine Shared
+    DisplayName    REG_SZ    SQL Server 2022 XEvent
+    DisplayName    REG_SZ    Microsoft.NETCore.App.Runtime.Mono.maccatalyst-x64 (x64)
+    DisplayName    REG_SZ    SQL Server 2022 DMF
+    DisplayName    REG_SZ    Microsoft.Maui.Essentials (x64)
+    DisplayName    REG_SZ    Python 3.14.0 Tcl/Tk Support (64-bit)
+    DisplayName    REG_SZ    Microsoft.NET.Workload.Mono.Toolchain.Current.Manifest (x64)
+    DisplayName    REG_SZ    Microsoft .NET Toolset 9.0.100 (x64)
+    DisplayName    REG_SZ    Microsoft.NET.Workload.Emscripten.Current.Manifest (x64)
+    DisplayName    REG_SZ    Microsoft.NET.Sdk.tvOS.Manifest-9.0.100 (x64)
+    DisplayName    REG_SZ    Microsoft.NETCore.App.Runtime.Mono.maccatalyst-x64 (x64)
+    DisplayName    REG_SZ    Microsoft SQL Server 2022 RsFx Driver
+    DisplayName    REG_SZ    Microsoft.iOS.Sdk.net9.0_18.1 (x64)
+    DisplayName    REG_SZ    Microsoft.NETCore.App.Runtime.Mono.ios-arm64 (x64)
+    DisplayName    REG_SZ    Microsoft.NETCore.App.Runtime.Mono.android-arm64 (x64)
+    DisplayName    REG_SZ    SQL Server 2022 Database Engine Services
+    DisplayName    REG_SZ    Microsoft.NET.Workload.Mono.Toolchain.net6.Manifest (x64)
+    DisplayName    REG_SZ    Microsoft.Android.Runtime.35.android-arm (x64)
+    DisplayName    REG_SZ    Microsoft.iOS.Runtime.ios-arm64.net9.0_18.1 (x64)
+    DisplayName    REG_SZ    Python 3.14.0 pip Bootstrap (64-bit)
+    DisplayName    REG_SZ    Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-arm (x64)
+    DisplayName    REG_SZ    SQL Server 2022 Common Files
+    DisplayName    REG_SZ    Microsoft.NETCore.App.Runtime.Mono.android-x86 (x64)
+    DisplayName    REG_SZ    VS JIT Debugger
+    DisplayName    REG_SZ    SQL Server 2022 DMF
+    DisplayName    REG_SZ    Python 3.14.0 Add to Path (64-bit)
+    DisplayName    REG_SZ    Microsoft Visual Studio Installer
+    DisplayName    REG_SZ    SQL Server 2022 Shared Management Objects
+    DisplayName    REG_SZ    Windows App Certification Kit Native Components
+    DisplayName    REG_SZ    Microsoft.NET.Sdk.iOS.Manifest-9.0.100 (x64)
+    DisplayName    REG_SZ    Microsoft.NET.Sdk.Android.Manifest-9.0.100 (x64)
+    DisplayName    REG_SZ    Microsoft OLE DB Driver for SQL Server
+    DisplayName    REG_SZ    Microsoft.NET.Workload.Emscripten.net7.Manifest (x64)
+    DisplayName    REG_SZ    Microsoft.NET.Workload.Mono.Toolchain.net8.Manifest (x64)
+    DisplayName    REG_SZ    Microsoft .NET AppHost Pack - 8.0.11 (x64_x86)
+    DisplayName    REG_SZ    Microsoft .NET AppHost Pack - 9.0.0 (x64)
+    DisplayName    REG_SZ    Microsoft Analysis Services OLE DB Provider
+    DisplayName    REG_SZ    vs_minshellinteropx64msi
+    DisplayName    REG_SZ    Windows SDK DirectX x64 Remote
+    DisplayName    REG_SZ    SQL Server 2022 Batch Parser
+    DisplayName    REG_SZ    Microsoft.iOS.Windows.Sdk.net8.0_17.0 (x64)
+    DisplayName    REG_SZ    Microsoft.NETCore.App.Runtime.Mono.iossimulator-arm64 (x64)
+    DisplayName    REG_SZ    Microsoft.NET.Workload.Emscripten.net6.Manifest (x64)
+    DisplayName    REG_SZ    Microsoft.Maui.Resizetizer (x64)
+    DisplayName    REG_SZ    Модуль записи VSS для SQL Server 2022 (Microsoft)
+    DisplayName    REG_SZ    Microsoft.NETCore.App.Runtime.Mono.iossimulator-x64 (x64)
+    DisplayName    REG_SZ    .NET MAUI SDK (x64)
+    DisplayName    REG_SZ    Microsoft Web Deploy 4.0
+    DisplayName    REG_SZ    Microsoft.iOS.Runtime.iossimulator-x64.net9.0_18.1 (x64)
+    DisplayName    REG_SZ    Microsoft Windows Desktop Runtime - 9.0.0 (x64)
+    DisplayName    REG_SZ    Python 3.14.0 Standard Library (64-bit)
+    DisplayName    REG_SZ    Microsoft Visual C++ 2022 X64 Additional Runtime - 14.44.35211
+    DisplayName    REG_SZ    Microsoft.Android.Ref.35 (x64)
+    DisplayName    REG_SZ    Python 3.14.0 Core Interpreter (64-bit)
+    DisplayName    REG_SZ    Microsoft.Maui.Controls.Xaml (x64)
+    DisplayName    REG_SZ    Microsoft.AspNetCore.Components.WebView.Maui (x64)
+    DisplayName    REG_SZ    SQL Server 2022 Connection Info
+    DisplayName    REG_SZ    Microsoft Visual Studio Tools for Applications 2019 x64 Hosting Support
+    DisplayName    REG_SZ    Office 16 Click-to-Run Licensing Component
+    DisplayName    REG_SZ    Office 16 Click-to-Run Extensibility Component
+    DisplayName    REG_SZ    Office 16 Click-to-Run Localization Component
+    DisplayName    REG_SZ    Microsoft.iOS.Windows.Sdk.net9.0_18.0 (x64)
+    DisplayName    REG_SZ    Microsoft .NET AppHost Pack - 8.0.11 (x64)
+    DisplayName    REG_SZ    Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-x86 (x64)
+    DisplayName    REG_SZ    Microsoft.NETCore.App.Runtime.Mono.android-x86 (x64)
+    DisplayName    REG_SZ    Microsoft.Android.Sdk.Windows (x64)
+    DisplayName    REG_SZ    Python 3.14.0 Documentation (64-bit)
+    DisplayName    REG_SZ    Microsoft .NET Runtime - 9.0.0 (x64)
+    DisplayName    REG_SZ    Microsoft Windows Desktop Targeting Pack - 9.0.0 (x64)
+    DisplayName    REG_SZ    Microsoft.NET.Runtime.MonoAOTCompiler.Task (x64)
+    DisplayName    REG_SZ    Microsoft .NET Runtime - 8.0.11 (x64)
+    DisplayName    REG_SZ    SQL Server 2022 Shared Management Objects Extensions
+    DisplayName    REG_SZ    Microsoft.iOS.Sdk.net9.0_18.0 (x64)
+    DisplayName    REG_SZ    Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-x86 (x64)
+    DisplayName    REG_SZ    IIS 10.0 Express
+    DisplayName    REG_SZ    Microsoft.NETCore.App.Runtime.Mono.ios-arm64 (x64)
+    DisplayName    REG_SZ    Microsoft .NET Standard Targeting Pack - 2.1.0 (x64)
+    DisplayName    REG_SZ    Microsoft ASP.NET Core 8.0.11 Shared Framework (x64)
+    DisplayName    REG_SZ    Microsoft.Android.Runtime.35.android-arm64 (x64)
+    DisplayName    REG_SZ    Microsoft.Maui.Controls.Core (x64)
+    DisplayName    REG_SZ    .NET MAUI Templates (x64)
+    DisplayName    REG_SZ    IIS Express Application Compatibility Database for x86
+    DisplayName    REG_SZ    Microsoft.MacCatalyst.Templates (x64)
+    DisplayName    REG_SZ    VMware Tools
+    DisplayName    REG_SZ    Microsoft.iOS.Windows.Sdk.net8.0_18.0 (x64)
+    DisplayName    REG_SZ    .NET MAUI Templates (x64)
+    DisplayName    REG_SZ    Python 3.14.0 Test Suite (64-bit)
+    DisplayName    REG_SZ    Microsoft .NET 8.0 Templates 8.0.404 (x64)
+    DisplayName    REG_SZ    Microsoft.Maui.Graphics (x64)
+    DisplayName    REG_SZ    Microsoft.iOS.Ref.net9.0_18.1 (x64)
+    DisplayName    REG_SZ    SQL Server 2022 XEvent
+    DisplayName    REG_SZ    Python 3.14.0 Executables (64-bit)
+    DisplayName    REG_SZ    NXLog-CE
+    DisplayName    REG_SZ    Microsoft Windows Desktop Runtime - 8.0.11 (x64)
+    DisplayName    REG_SZ    Microsoft .NET Targeting Pack - 8.0.11 (x64)
+    DisplayName    REG_SZ    Microsoft Windows Desktop Targeting Pack - 8.0.11 (x64)
+    DisplayName    REG_SZ    Microsoft ASP.NET Core 9.0.0 Shared Framework (x64)
+    DisplayName    REG_SZ    Microsoft .NET Targeting Pack - 9.0.0 (x64)
+    DisplayName    REG_SZ    Microsoft.NET.Workload.Emscripten.net8.Manifest (x64)
+    DisplayName    REG_SZ    Application Verifier x64 External Package (DesktopEditions)
+    DisplayName    REG_SZ    Microsoft.MacCatalyst.Runtime.maccatalyst-arm64.net9.0_18.1 (x64)
+    DisplayName    REG_SZ    Microsoft.Android.Runtime.35.android-x64 (x64)
+    DisplayName    REG_SZ    WinDirStat
+    DisplayName    REG_SZ    Microsoft .NET SDK 9.0.100 (x64) from Visual Studio
+    DisplayName    REG_SZ    SQL Server 2022 Database Engine Shared
+    DisplayName    REG_SZ    SQL Server 2022 Shared Management Objects
+    DisplayName    REG_SZ    Microsoft.NET.Runtime.MonoTargets.Sdk (x64)
+    DisplayName    REG_SZ    Microsoft Visual C++ 2022 X64 Debug Runtime - 14.42.34433
+    DisplayName    REG_SZ    Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-x64 (x64)
+    DisplayName    REG_SZ    Microsoft ASP.NET Core 8.0.11 Targeting Pack (x64)
+    DisplayName    REG_SZ    Microsoft.NETCore.App.Runtime.Mono.iossimulator-arm64 (x64)
+    DisplayName    REG_SZ    Microsoft.Maui.Core (x64)
+    DisplayName    REG_SZ    Microsoft.Maui.Controls.Compatibility (x64)
+    DisplayName    REG_SZ    Microsoft.Maui.Graphics.Win2D.WinUI.Desktop (x64)
+    DisplayName    REG_SZ    Microsoft.MacCatalyst.Runtime.maccatalyst-x64.net9.0_18.1 (x64)
+    DisplayName    REG_SZ    Microsoft.MacCatalyst.Sdk.net8.0_17.0 (x64)
+    DisplayName    REG_SZ    vs_devenx64vmsi
+    DisplayName    REG_SZ    Microsoft SQL Server 2019 LocalDB 
+    DisplayName    REG_SZ    Microsoft.NET.Runtime.MonoTargets.Sdk (x64)
+    DisplayName    REG_SZ    Microsoft .NET AppHost Pack - 9.0.0 (x64_x86)
+    DisplayName    REG_SZ    Microsoft Visual Studio Code
+    DisplayName    REG_SZ    SQL Server 2022 Connection Info
+    DisplayName    REG_SZ    Microsoft.MacCatalyst.Sdk.net8.0_18.0 (x64)
+    DisplayName    REG_SZ    WebDrive
+    DisplayName    REG_SZ    Microsoft ASP.NET Core Module V2 for IIS Express
+    DisplayName    REG_SZ    Microsoft.NET.Sdk.MacCatalyst.Manifest-9.0.100 (x64)
+    DisplayName    REG_SZ    vs_communityx64msi
+    DisplayName    REG_SZ    Microsoft.NET.Runtime.MonoAOTCompiler.Task (x64)
+    DisplayName    REG_SZ    VS Script Debugging Common
+    DisplayName    REG_SZ    Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-arm64 (x64)
+    DisplayName    REG_SZ    Dr.Web Agent
+    DisplayName    REG_SZ    Microsoft.Android.Runtime.35.android-x86 (x64)
+    DisplayName    REG_SZ    IntelliTraceProfilerProxy
+    DisplayName    REG_SZ    Microsoft ASP.NET Core Module for IIS Express
+    DisplayName    REG_SZ    Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-arm64 (x64)
+    DisplayName    REG_SZ    Unity Hub 2.4.4
+    DisplayName    REG_SZ    Visual Studio Community 2022
+    DisplayName    REG_SZ    Среда выполнения Microsoft Edge WebView2 Runtime
+    DisplayName    REG_SZ    Microsoft Help Viewer 2.3
+    DisplayName    REG_SZ    Windows Mobile Extension SDK Contracts
+    DisplayName    REG_SZ    vs_clickoncesigntoolmsi
+    DisplayName    REG_SZ    vs_filehandler_x86
+    DisplayName    REG_SZ    Windows SDK for Windows Store Managed Apps Libs
+    DisplayName    REG_SZ    Microsoft .NET Host - 9.0.0 (x86)
+    DisplayName    REG_SZ    Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.44.35211
+    DisplayName    REG_SZ    Microsoft .NET Framework 4.7.2 Targeting Pack
+    DisplayName    REG_SZ    vs_CoreEditorFonts
+    DisplayName    REG_SZ    WPTx64 (OnecoreUAP)
+    DisplayName    REG_SZ    Universal CRT Redistributable
+    DisplayName    REG_SZ    Обозреватель для SQL Server 2022
+    DisplayName    REG_SZ    Windows SDK Desktop Libs x86
+    DisplayName    REG_SZ    Microsoft ASP.NET Core 8.0.11 Shared Framework (x86)
+    DisplayName    REG_SZ    Visual Studio 2017 Isolated Shell for SSMS
+    DisplayName    REG_SZ    Microsoft ASP.NET Core 8.0.11 Targeting Pack (x86)
+    DisplayName    REG_SZ    Windows App Certification Kit x64
+    DisplayName    REG_SZ    SDK ARM Additions
+    DisplayName    REG_SZ    Windows SDK
+    DisplayName    REG_SZ    Windows SDK Desktop Libs arm
+    DisplayName    REG_SZ    Пакет нацеливания Microsoft .NET Framework 4.8 (Русский)
+    DisplayName    REG_SZ    Windows SDK Desktop Headers arm
+    DisplayName    REG_SZ    SSMS Post Install Tasks
+    DisplayName    REG_SZ    vs_devenvsharedmsi
+    DisplayName    REG_SZ    Windows SDK for Windows Store Apps Tools
+    DisplayName    REG_SZ    Universal CRT Tools x86
+    DisplayName    REG_SZ    MSI Development Tools
+    DisplayName    REG_SZ    Microsoft Windows Desktop Runtime - 8.0.11 (x86)
+    DisplayName    REG_SZ    Windows SDK Desktop Headers x64
+    DisplayName    REG_SZ    WinRT Intellisense UAP - Other Languages
+    DisplayName    REG_SZ    Windows SDK Redistributables
+    DisplayName    REG_SZ    WinRT Intellisense IoT - en-us
+    DisplayName    REG_SZ    Visual C++ Library CRT Appx Resource Package
+    DisplayName    REG_SZ    vs_Graphics_Singletonx86
+    DisplayName    REG_SZ    Microsoft Visual Studio Setup WMI Provider
+    DisplayName    REG_SZ    Microsoft HTML Help Workshop Package
+    DisplayName    REG_SZ    Windows SDK for Windows Store Apps Metadata
+    DisplayName    REG_SZ    icecap_collectionresources
+    DisplayName    REG_SZ    WinRT Intellisense Desktop - Other Languages
+    DisplayName    REG_SZ    Microsoft .NET Framework 4.7.1 Targeting Pack
+    DisplayName    REG_SZ    Windows SDK Signing Tools
+    DisplayName    REG_SZ    Kits Configuration Installer
+    DisplayName    REG_SZ    Microsoft Visual C++ 2022 X86 Debug Runtime - 14.42.34433
+    DisplayName    REG_SZ    Windows SDK for Windows Store Apps DirectX x86 Remote
+    DisplayName    REG_SZ    WinRT Intellisense PPI - Other Languages
+    DisplayName    REG_SZ    Windows SDK for Windows Store Apps Contracts
+    DisplayName    REG_SZ    Windows SDK for Windows Store Apps
+    DisplayName    REG_SZ    Microsoft .NET Targeting Pack - 8.0.11 (x86)
+    DisplayName    REG_SZ    WinRT Intellisense IoT - Other Languages
+    DisplayName    REG_SZ    SQL Server Management Studio Language Pack - English
+    DisplayName    REG_SZ    Visual C++ Library CRT Desktop Appx Package
+    DisplayName    REG_SZ    Visual C++ Library CRT Desktop Appx Package
+    DisplayName    REG_SZ    vs_vswebprotocolselectormsires
+    DisplayName    REG_SZ    Microsoft ASP.NET Diagnostic Pack for Visual Studio
+    DisplayName    REG_SZ    Windows Software Development Kit - Windows 10.0.22621.3233
+    DisplayName    REG_SZ    vs_FileTracker_Singleton
+    DisplayName    REG_SZ    Microsoft NetStandard SDK
+    DisplayName    REG_SZ    Windows App Certification Kit x64 (OnecoreUAP)
+    DisplayName    REG_SZ    Windows SDK for Windows Store Apps Headers
+    DisplayName    REG_SZ    Windows SDK Modern Non-Versioned Developer Tools
+    DisplayName    REG_SZ    Windows SDK Facade Windows WinMD Versioned
+    DisplayName    REG_SZ    Windows Desktop Extension SDK Contracts
+    DisplayName    REG_SZ    Microsoft .NET Targeting Pack - 9.0.0 (x86)
+    DisplayName    REG_SZ    WinRT Intellisense Mobile - en-us
+    DisplayName    REG_SZ    Microsoft TestPlatform SDK Local Feed
+    DisplayName    REG_SZ    Windows SDK DirectX x86 Remote
+    DisplayName    REG_SZ    Microsoft ASP.NET Core 9.0.0 Shared Framework (x86)
+    DisplayName    REG_SZ    Windows SDK Desktop Libs x64
+    DisplayName    REG_SZ    vs_BlendMsi
+    DisplayName    REG_SZ    Python Launcher
+    DisplayName    REG_SZ    Windows SDK Desktop Libs arm64
+    DisplayName    REG_SZ    Windows IoT Extension SDK Contracts
+    DisplayName    REG_SZ    Microsoft Analysis Services OLE DB Provider
+    DisplayName    REG_SZ    vcpp_crt.redist.clickonce
+    DisplayName    REG_SZ    Windows Team Extension SDK
+    DisplayName    REG_SZ    Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.44.35211
+    DisplayName    REG_SZ    Microsoft .NET Framework 4.8 SDK
+    DisplayName    REG_SZ    WinRT Intellisense UAP - en-us
+    DisplayName    REG_SZ    Windows SDK ARM Desktop Tools
+    DisplayName    REG_SZ    Microsoft SQL Server Management Studio - 20.2
+    DisplayName    REG_SZ    SQL Server Management Studio
+    DisplayName    REG_SZ    Microsoft Help Viewer 2.3
+    DisplayName    REG_SZ    Microsoft .NET Runtime - 9.0.0 (x86)
+    DisplayName    REG_SZ    Microsoft .NET Runtime - 8.0.11 (x86)
+    DisplayName    REG_SZ    Windows Mobile Extension SDK
+    DisplayName    REG_SZ    Windows SDK Desktop Tools arm64
+    DisplayName    REG_SZ    Windows SDK Desktop Headers arm64
+    DisplayName    REG_SZ    WPT Redistributables
+    DisplayName    REG_SZ    vs_clickoncebootstrappermsires
+    DisplayName    REG_SZ    icecap_collectionresourcesx64
+    DisplayName    REG_SZ    windows_toolscorepkg
+    DisplayName    REG_SZ    vs_communitysharedmsi
+    DisplayName    REG_SZ    vs_tipsmsi
+    DisplayName    REG_SZ    vs_minshellsharedmsi
+    DisplayName    REG_SZ    WinRT Intellisense Desktop - en-us
+    DisplayName    REG_SZ    vs_clickoncebootstrappermsi
+    DisplayName    REG_SZ    SDK ARM Redistributables
+    DisplayName    REG_SZ    vs_vswebprotocolselectormsi
+    DisplayName    REG_SZ    Microsoft .NET Framework 4.7.1 Doc Redirected Targeting Pack (ENU) (русский)
+    DisplayName    REG_SZ    Microsoft .NET Framework 4.8 Targeting Pack
+    DisplayName    REG_SZ    ClickOnce Bootstrapper Package for Microsoft .NET Framework
+    DisplayName    REG_SZ    VS Immersive Activate Helper
+    DisplayName    REG_SZ    Windows SDK Desktop Tools x64
+    DisplayName    REG_SZ    Microsoft Visual C++ 2022 X86 Additional Runtime - 14.44.35211
+    DisplayName    REG_SZ    Integration Services
+    DisplayName    REG_SZ    Microsoft .NET Host FX Resolver - 9.0.0 (x86)
+    DisplayName    REG_SZ    WinRT Intellisense PPI - en-us
+    DisplayName    REG_SZ    Windows SDK Modern Versioned Developer Tools
+    DisplayName    REG_SZ    Windows App Certification Kit SupportedApiList x86
+    DisplayName    REG_SZ    IntelliTraceProfilerProxy
+    DisplayName    REG_SZ    WinAppDeploy
+    DisplayName    REG_SZ    Windows SDK Desktop Tools x86
+    DisplayName    REG_SZ    Microsoft Windows Desktop Targeting Pack - 9.0.0 (x86)
+    DisplayName    REG_SZ    Windows SDK for Windows Store Apps Libs
+    DisplayName    REG_SZ    Windows IoT Extension SDK
+    DisplayName    REG_SZ    Microsoft Visual Studio Setup Configuration
+    DisplayName    REG_SZ    Universal General MIDI DLS Extension SDK
+    DisplayName    REG_SZ    Universal CRT Headers Libraries and Sources
+    DisplayName    REG_SZ    Visual C++ Library CRT Appx Package
+    DisplayName    REG_SZ    Windows Desktop Extension SDK
+    DisplayName    REG_SZ    Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.44.35211
+    DisplayName    REG_SZ    vs_githubprotocolhandlermsi
+    DisplayName    REG_SZ    WPTx64 (DesktopEditions)
+    DisplayName    REG_SZ    icecap_collection_neutral
+    DisplayName    REG_SZ    vs_minshellmsires
+    DisplayName    REG_SZ    Windows SDK EULA
+    DisplayName    REG_SZ    vs_SQLClickOnceBootstrappermsi
+    DisplayName    REG_SZ    Visual C++ Library CRT Appx Package
+    DisplayName    REG_SZ    Microsoft Visual Studio Tools for Applications 2019 x86 Hosting Support
+    DisplayName    REG_SZ    Microsoft ASP.NET Core 9.0.0 Targeting Pack (x86)
+    DisplayName    REG_SZ    Microsoft Windows Desktop Runtime - 9.0.0 (x86)
+    DisplayName    REG_SZ    Universal CRT Extension SDK
+    DisplayName    REG_SZ    Xamarin Remoted iOS Simulator
+    DisplayName    REG_SZ    Entity Framework 6.2.0 Tools  for Visual Studio 2022
+    DisplayName    REG_SZ    Пакет SDK для Microsoft .NET Framework 4.8 (Русский)
+    DisplayName    REG_SZ    vs_filehandler_amd64
+    DisplayName    REG_SZ    Windows SDK AddOn
+    DisplayName    REG_SZ    Microsoft Visual Studio Tools for Applications 2019
+    DisplayName    REG_SZ    vs_minshellinteropsharedmsi
+    DisplayName    REG_SZ    Visual C++ Library CRT ARM64 Appx Package
+    DisplayName    REG_SZ    Windows SDK Desktop Headers x86
+    DisplayName    REG_SZ    Пакет нацеливания Microsoft .NET Framework 4.7.2 (Русский)
+    DisplayName    REG_SZ    Накопительный пакет обновления Microsoft .NET Framework Intellisense для Visual Studio (Русский)
+    DisplayName    REG_SZ    vs_communitymsires
+    DisplayName    REG_SZ    Microsoft Windows Desktop Targeting Pack - 8.0.11 (x86)
+    DisplayName    REG_SZ    Windows Team Extension SDK Contracts
+    DisplayName    REG_SZ    Visual C++ Library CRT Desktop Appx Package
+Report saved. 

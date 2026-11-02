@@ -1,0 +1,60 @@
+============================================================
+  WORKPLACE STATUS REPORT
+  Generated: 02.11.2026 10:12:59,54
+============================================================
+
+Collecting PC information...
+
+--- System Information ---
+OS: �������� Windows Server 2022 Standard
+Computer Name: CLS-RDS14
+
+--- CPU and RAM ---
+CPU: Intel(R) Xeon(R) Gold 6354 CPU @ 3.00GHz
+RAM:  GB
+
+--- Disks ---
+Disk C::  GB
+Disk D::  GB
+
+Querying registry for installed software...
+
+Total software found: 317
+
+============================================================
+  BASE OFFICE SOFTWARE RECOMMENDATIONS
+============================================================
+
+[OK] Office Suite: Office 16 Click-to-Run Localization Component
+[OK] Browser: Google Chrome
+[RECOMMENDATION] PDF reader not found. Install Adobe Acrobat Reader or Foxit Reader.
+[OK] Archiver: 7-Zip 24.08 (x64)
+[OK] Antivirus: Dr.Web Agent
+
+============================================================
+  EXCESSIVE SOFTWARE RECOMMENDATIONS (FOR REVIEW)
+============================================================
+
+Warning: this is for review, not an order to delete.
+
+--- Gaming Software and Platforms ---
+  Not found.
+
+--- Torrent Clients and File Sharing ---
+  Not found.
+
+--- Messengers and Personal Communication ---
+  Not found.
+
+--- Entertainment and Customization Tools ---
+  Found: SQL Server 2022 Database Engine Services
+  Found: SQL Server 2022 Database Engine Shared
+
+============================================================
+  SUMMARY
+============================================================
+Base software categories checked: 5
+Base software recommendations: 1
+Excessive software found (for review): 2
+Report saved to: C:\Users\s24351642\Documents\pc_report.txt
+
